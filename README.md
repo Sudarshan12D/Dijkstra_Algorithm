@@ -13,3 +13,4 @@ python Router.py [Router_id] [port_number] config-[name].txt
 * python Router.py 4 7004 config-E.txt
 * python Router.py 5 7005 config-F.txt
 
+![Image](/instance4.jpg)
